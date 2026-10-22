@@ -3,7 +3,7 @@ RA      Github
 1195038
 5157832 guiguichinelo
 5158937
-5161080
+5161080 jorgehenriqueavitorino-cmd
 5161607
 5161815
 5161826 rafaelh4mu
